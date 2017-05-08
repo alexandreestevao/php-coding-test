@@ -1,5 +1,5 @@
 # Coding Teste PHP em POO
-Repositório do teste em PHP em POO
+Repositório do teste PHP em POO
 
 # Versão
 1.0
